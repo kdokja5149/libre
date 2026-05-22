@@ -1,0 +1,38 @@
+[
+    {
+        "id": 2,
+        "title": "Преступление и наказание",
+        "author": "Ф.М. Достоевский",
+        "year": 1866,
+        "genre": "психология",
+        "file_path": "C:/Users/PC/Downloads/Преступление и наказание.epub",
+        "cover_path": null
+    },
+    {
+        "id": 3,
+        "title": "Убийство в восточном экспрессе",
+        "author": "Агата Кристи",
+        "year": 1933,
+        "genre": "детектив",
+        "file_path": "C:/Users/PC/Downloads/68337084 (1).zip",
+        "cover_path": null
+    },
+    {
+        "id": 4,
+        "title": "Маленький принц",
+        "author": "Антуан де Сент-Экзюпери",
+        "year": 1942,
+        "genre": "Аллегория",
+        "file_path": "C:/Users/PC/Downloads/Malenkiy_prints.fb2",
+        "cover_path": "C:/Users/PC/Downloads/8830434700.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Анна Каренина",
+        "author": "Лев Толстой",
+        "year": 1877,
+        "genre": "роман",
+        "file_path": "C:/Users/PC/Downloads/Tolstoy_Anna_Karenina.pdf",
+        "cover_path": "C:/Users/PC/Downloads/liblebooks/cover13d__w820.jpg"
+    }
+]
